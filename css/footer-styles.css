@@ -1,0 +1,40 @@
+
+/* Footer Section */
+#footer {
+  background-color: #fff;
+  text-align: center;
+  padding: 3%;
+}
+
+
+.footer-p {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 1.5rem;
+}
+
+.footer-p:hover {
+  color: #000;
+}
+
+/* Icon Size */
+.ft-icon {
+  margin: 0 1.5% 2%;
+}
+
+
+/* Specific Footer icon changes on hovering */
+.ft-twitter:hover {
+  color: #1DA1F2;
+}
+
+.ft-facebook:hover {
+  color: #4267B2;
+}
+
+.ft-instagram:hover {
+  color: #833AB4;
+}
+
+.ft-mail:hover {
+  color: #006AFF;
+}

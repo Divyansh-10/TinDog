@@ -1,0 +1,49 @@
+
+#features
+{
+  position: relative;
+  z-index : 1;
+}
+
+.container-features{
+    background-color: #fff;
+
+}
+
+.fa-icon
+{
+  color: #ef8172;
+  margin-bottom: 5%;
+}
+
+.fa-icon:hover
+{
+  color: #ff4c68;
+}
+
+.features-row
+{
+     padding: 5% 7% 5% 7%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.features-h3
+{
+   font-family: 'Montserrat', sans-serif;
+   color : #000;
+}
+
+.features-img
+{
+  height : 50px;
+  width : 50px;
+  margin-bottom: 10px;
+}
+
+p{
+  color: #8f8f8f;
+}

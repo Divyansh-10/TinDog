@@ -1,0 +1,13 @@
+#cta
+{
+  background-color: #ff4c68;
+  padding : 9% 17%;
+  text-align : center;
+}
+
+/* Cta Heading Font */
+.cta-h3
+{
+  color: #fff;
+  font-size: 3.2rem;
+}

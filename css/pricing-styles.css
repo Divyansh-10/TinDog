@@ -1,0 +1,27 @@
+.col-pd
+{
+  padding: 3%;
+}
+#pricing
+{
+  text-align: center;
+  padding: 7% ;
+}
+
+.pricing-header
+{
+  padding-bottom: 7%;
+}
+
+.pricing-h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 45px;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif ;
+  font-weight:bold;
+}
